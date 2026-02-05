@@ -10,11 +10,11 @@ A literal is simply the value of something, such as a variable. There are differ
 | Integer   | `123`, `-123`        |
 | Floating  | `1.23`               |
 
-## Reserved literals
+### Reserved literals
 - `true`
 - `false`
 - `null`
 
-## Notes
+### Notes
 - A character literal must represent one character. `'abc'` will not be a valid example.
 - `"` is used with string literals and `'` is used with character literals.
