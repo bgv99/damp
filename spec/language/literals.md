@@ -4,8 +4,8 @@ A literal is simply the value of something, such as a variable. There are differ
 | Kind      | Literal value/values |
 |-----------|----------------------|
 | Boolean   | `true`, `false`      |
-| Character | `' '`                |
-| String    | `" "`                |
+| Character | `'a'`                |
+| String    | `"hello"`            |
 | Pointer   | `null`               |
 | Integer   | `123`, `-123`        |
 | Floating  | `1.23`               |
