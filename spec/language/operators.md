@@ -26,7 +26,7 @@
 | `&&`     | Logical           | Logical AND                        |
 | `!`      | Logical           | Logical NOT                        |
 | `\|\|`   | Logical           | Logical OR                         |
-| `()`     | Arithmetic/Other  | Operation precedence/Function call |
+| `()`     | Other             | Function call                      |
 | `[]`     | Access            | Array access                       |
 | `->`     | Access            | Access to a member of a pointer    |
 | `.`      | Access            | Access to a member of an object    |
